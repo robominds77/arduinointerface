@@ -1,7 +1,6 @@
 int led=13;
 int Pin2=2;
 int Pin3=3;
-int Pin11=11;
 int Pin4=4;
 int Pin5=5;
 int Pin6=6;
@@ -9,6 +8,7 @@ int Pin7=7;
 int Pin8=8;
 int Pin9=9;
 int Pin10=10;
+int Pin11=11;
 int Pin12=12;
 void setup() {
 pinMode(Pin2,OUTPUT);
